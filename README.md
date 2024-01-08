@@ -1,9 +1,10 @@
-# real-estate-management
+# real-estate-management app
 
 A online property management solution for real estate and
 physical property management. This can include residential,
 commercial, and land real estate. a software developed to
-connect property managers and potential buyers.
+connect property managers and potential buyers. This software will 
+reduces manual entry and can automated.
 
 🚧 **frontend/** work in progress 🚧.
 
