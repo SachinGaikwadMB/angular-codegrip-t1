@@ -64,6 +64,24 @@ export class EnquiriesPage implements OnInit {
     }
   }
 
+  ionViewDidEnter() {
+    if (this.user) {
+      this.enquiriesList.onParentDidEnter();
+    }
+  }
+
+  ionViewDidEnter() {
+    if (this.user) {
+      this.enquiriesList.onParentDidEnter();
+    }
+  }
+
+  ionViewDidEnter() {
+    if (this.user) {
+      this.enquiriesList.onParentDidEnter();
+    }
+  }
+
   public async setLoading(val: boolean) {
     this.progressBar = val;
   }
