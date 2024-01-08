@@ -7,7 +7,25 @@ const routes: Routes = [
   {
     path: '',
     component: AboutPage
+  },
+  {
+    path: '/',
+    component: RedirectPage
+  },
+  {
+    path: '',
+    component: AboutPage
+  },
+  {
+    path: '',
+    component: AboutPage
+  },
+  {
+    path: '',
+    component: AboutPage
   }
+  
+  
 ];
 
 @NgModule({
